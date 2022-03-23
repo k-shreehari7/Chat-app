@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "329689169981",
+    "project_id": "flash-chat-4954b",
+    "storage_bucket": "flash-chat-4954b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:329689169981:android:06a18be6de1926aa5faa54",
+        "android_client_info": {
+          "package_name": "co.hari.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "329689169981-jtnkijpgmdkgltmf2d9aj8f43pq1812t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATXkLRJfTdbj_n--K74bcoILXCizz1rn0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "329689169981-jtnkijpgmdkgltmf2d9aj8f43pq1812t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
